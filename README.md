@@ -1,2 +1,2 @@
 # hello-world-mh
-This is tutorial example
+This is the tutorial example
